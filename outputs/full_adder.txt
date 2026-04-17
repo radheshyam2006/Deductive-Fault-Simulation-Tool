@@ -1,0 +1,8 @@
+Fault set which is detected: Cout stuck at 1, Sum stuck at 1, F stuck at 1, Cin stuck at 1, A stuck at 1, B stuck at 1, D stuck at 1, E stuck at 1
+Fault set which is detected: Sum stuck at 0, Cin stuck at 0, A stuck at 1, B stuck at 1, F stuck at 1, E stuck at 1, Cout stuck at 1, D stuck at 1
+Fault set which is detected: Sum stuck at 0, Cin stuck at 1, A stuck at 1, F stuck at 1, E stuck at 1, Cout stuck at 1, D stuck at 0, B stuck at 0
+Fault set which is detected: Sum stuck at 1, Cin stuck at 0, A stuck at 1, Cout stuck at 0, F stuck at 0, D stuck at 0, B stuck at 0
+Fault set which is detected: Sum stuck at 0, Cin stuck at 1, A stuck at 0, B stuck at 1, F stuck at 1, E stuck at 1, Cout stuck at 1, D stuck at 0
+Fault set which is detected: Sum stuck at 1, Cin stuck at 0, A stuck at 0, B stuck at 1, Cout stuck at 0, F stuck at 0, D stuck at 0
+Fault set which is detected: Sum stuck at 1, Cin stuck at 1, A stuck at 0, Cout stuck at 0, E stuck at 0, B stuck at 0, D stuck at 1
+Fault set which is detected: Sum stuck at 0, Cout stuck at 0, E stuck at 0, Cin stuck at 0, A stuck at 0, B stuck at 0, D stuck at 1

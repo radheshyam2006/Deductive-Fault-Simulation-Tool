@@ -1,0 +1,2 @@
+Fault set which is detected: N10 stuck at 0, N22 stuck at 1, N7 stuck at 1, N2 stuck at 1, N23 stuck at 1, N16 stuck at 0, N19 stuck at 0
+Fault set which is detected: N7 stuck at 0, N19 stuck at 1, N10 stuck at 1, N23 stuck at 0, N22 stuck at 0, N6 stuck at 1, N11 stuck at 0, N3 stuck at 0, N1 stuck at 0
